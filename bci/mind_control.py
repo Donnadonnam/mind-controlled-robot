@@ -1,4 +1,4 @@
-__author__ = 'marion'
+__author__ = 'antonio'
 
 from consider import Consider
 import threading
